@@ -1,0 +1,23 @@
+html
+{
+    background-color: #222831;
+}
+#hello
+{
+    background-color: #eeee;
+    width: 600px;
+    height: 800px;
+    text-align: center;
+    margin:auto;
+}
+#new
+{
+    padding-top: 30px;
+}
+h1
+{
+  font-family: "Playwrite CZ", system-ui;
+  font-style: normal;
+  font-size: 1.5em;
+  color: #393E46;
+}
